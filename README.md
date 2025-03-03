@@ -42,7 +42,7 @@ plt.show()
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by: V.HARSHINI
-RegisterNumber: 212224010419 
+RegisterNumber: 2122240104109 
 */
 ```
 
